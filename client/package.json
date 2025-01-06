@@ -1,0 +1,11 @@
+{
+    "name": "login-client",
+    "version": "1.0.0",
+    "description": "Front-end for authentication system",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server --open=index.html"
+    },
+    "dependencies": {}
+  }
+  
