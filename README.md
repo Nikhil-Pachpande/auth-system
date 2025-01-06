@@ -14,5 +14,5 @@ npm install
 cd server
 npm install
 
-![screenshot](../assets/signup-login.png)
+![screenshot](client/assets/screennshots/signup-login.png)
 
