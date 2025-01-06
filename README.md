@@ -14,5 +14,5 @@ npm install
 cd server
 npm install
 
-![screenshot](client/assets/screennshots/signup-login.png)
+<img src="https://github.com/Nikhil-Pachpande/login-component/blob/57d384f8ed152af71708d58dcdee6f2623121873/client/assets/screennshots/signup-login.png" width="480" length="640">
 
